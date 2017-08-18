@@ -1,0 +1,2 @@
+O programa foi feito com python 3 mas compatibiliza para o python 2. 
+Feito com orientação o objetos
